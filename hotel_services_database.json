@@ -1,0 +1,828 @@
+{
+  "hotel": {
+    "name": "Horizon Luxury Hotel & Concierge",
+    "tagline": "Where Luxury Meets Perfection",
+    "established": 2010,
+    "location": "Hyderabad, Telangana, India",
+    "phone": "+91-40-XXXX-XXXX",
+    "concierge_phone": "+91-40-XXXX-XXXX",
+    "email": "reservations@horizonhotel.com",
+    "concierge_email": "concierge@horizonhotel.com",
+    "whatsapp": "+91-XXXXX-XXXXX",
+    "hours": {
+      "concierge": "24/7",
+      "reservations": "8 AM - 8 PM",
+      "front_desk": "24 Hours",
+      "check_in": "3 PM",
+      "check_out": "12 PM"
+    },
+    "staff_count": 300,
+    "awards": [
+      "5-Star Hotel Rating (2023)",
+      "Best Luxury Hotel Award (2022)",
+      "Outstanding Concierge Service Award (2024)",
+      "Guest Satisfaction Award (Consecutive 3 years)"
+    ],
+    "global_connections": 500
+  },
+
+  "rooms_and_suites": [
+    {
+      "id": "deluxe",
+      "name": "Deluxe Room",
+      "category": "Classic",
+      "size_sqm": 45,
+      "size_sqft": 484,
+      "bedding_options": ["1 King bed", "2 Queen beds"],
+      "occupancy": "Up to 2 guests",
+      "total_available": 50,
+      "views": "City views with floor-to-ceiling windows",
+      "amenities": [
+        "Marble bathroom with rain shower",
+        "Luxury Italian linens (400+ thread count)",
+        "Nespresso machine with premium coffee",
+        "Complimentary high-speed WiFi",
+        "Smart TV with streaming services",
+        "Premium toiletries by Officine Universelle Buly 1803",
+        "Work desk with ergonomic seating",
+        "In-room safe and mini-bar",
+        "Heated towel rack",
+        "Air conditioning with individual control"
+      ],
+      "technology": [
+        "Smart room control system",
+        "Voice-activated assistant (Alexa)",
+        "65-inch Smart TV",
+        "Bluetooth sound system",
+        "USB and wireless charging",
+        "Video conferencing setup"
+      ],
+      "complimentary_services": [
+        "Daily housekeeping",
+        "24/7 room service",
+        "Fitness center access",
+        "24/7 concierge support",
+        "Daily newspapers/magazines",
+        "In-room breakfast (3+ nights)"
+      ],
+      "rate_range": {
+        "min": 25000,
+        "max": 45000,
+        "currency": "INR",
+        "notes": "Complimentary parking, WiFi, concierge"
+      }
+    },
+
+    {
+      "id": "executive",
+      "name": "Executive Suite",
+      "category": "Premium",
+      "size_sqm": 85,
+      "size_sqft": 915,
+      "layout": "Separate bedroom and living room with dining area",
+      "bedding": "1 King bed + sofa bed",
+      "occupancy": "Up to 4 guests",
+      "total_available": 25,
+      "views": "Premium panoramic city or garden views",
+      "suite_features": [
+        "Separate bedroom with King bed",
+        "Living room with dining area",
+        "Full kitchen with stove and dishwasher",
+        "Two marble bathrooms (whirlpool tub and walk-in shower)",
+        "Separate powder room",
+        "Washer/dryer in-suite"
+      ],
+      "executive_amenities": [
+        "Dedicated Executive Lounge access (6 AM - 10 PM)",
+        "Complimentary cocktails and canapés",
+        "Dual Nespresso machines",
+        "Premium minibar with personalization",
+        "Daily turndown service",
+        "Priority concierge line"
+      ],
+      "business_features": [
+        "Dedicated work office",
+        "Two 75-inch Smart TVs",
+        "Conference phone and video conferencing",
+        "High-speed dedicated internet (1 Gbps)",
+        "Printer, scanner, fax in-suite",
+        "Entertainment system with surround sound",
+        "Dining table for 6"
+      ],
+      "exclusive_services": [
+        "Priority concierge with dedicated specialist",
+        "Late checkout (3 PM) as standard",
+        "Room upgrade on arrival (subject to availability)",
+        "Welcome gift and personalized note",
+        "Personalized itinerary planning",
+        "Express restaurant reservations",
+        "Private car service for airport"
+      ],
+      "rate_range": {
+        "min": 55000,
+        "max": 95000,
+        "currency": "INR",
+        "notes": "Weekly rates available. All lounge privileges included"
+      }
+    },
+
+    {
+      "id": "presidential",
+      "name": "Presidential Suite",
+      "category": "Luxury",
+      "size_sqm": 250,
+      "size_sqft": 2700,
+      "levels": "Two stories with private elevator access",
+      "bedrooms": 2,
+      "bathrooms": 3,
+      "living_spaces": [
+        "Grand living room",
+        "Formal dining room",
+        "Library",
+        "Private study"
+      ],
+      "unique_features": [
+        "In-suite spa facilities",
+        "Full professional kitchen",
+        "Home theater system",
+        "Private outdoor terrace",
+        "In-suite sauna"
+      ],
+      "design": {
+        "architect": "Thomas Juul-Hansen (world-renowned)",
+        "furniture": "Bespoke Italian by Giorgetti",
+        "artwork": "Original contemporary art pieces",
+        "views": "360-degree city and garden views",
+        "outdoor": "Private landscaped terrace with fountain",
+        "lighting": "Custom design for every mood"
+      },
+      "services_included": [
+        "Personal concierge assigned exclusively",
+        "24-hour butler service",
+        "Personal assistant",
+        "Personal chef available",
+        "Full housekeeping team (multiple shifts)",
+        "In-suite spa services",
+        "Personal trainer",
+        "Private car and driver (24/7)"
+      ],
+      "technology": [
+        "Dedicated fiber optic connection (10 Gbps)",
+        "Full smart home automation",
+        "Home theater (4K projection)",
+        "Multiple 85-inch Smart TVs",
+        "Broadcast-quality video conferencing",
+        "Secure communication systems"
+      ],
+      "experiences": [
+        "Priority access to all hotel experiences",
+        "Private rooftop lounge access",
+        "Private dining rooms",
+        "VIP private entrance",
+        "Guaranteed Michelin-star reservations",
+        "Private shopping experiences",
+        "Custom itinerary planning",
+        "Access to private events and galas"
+      ],
+      "rate_range": {
+        "min": 250000,
+        "max": 500000,
+        "currency": "INR",
+        "notes": "Custom packages and multi-night rates negotiable"
+      }
+    },
+
+    {
+      "id": "penthouse",
+      "name": "Penthouse Residence",
+      "category": "Ultra Luxury",
+      "size_sqm": 400,
+      "size_sqft": 4300,
+      "bedrooms": 3,
+      "bathrooms": 4,
+      "living_spaces": [
+        "Multiple living areas",
+        "Formal dining room",
+        "Library/study",
+        "Private terrace (150 sq meters)"
+      ],
+      "residential_features": [
+        "Full-service residential lifestyle",
+        "Chef-grade appliances",
+        "Full-service pantry",
+        "Spa facilities",
+        "Private outdoor terrace"
+      ],
+      "residential_services": [
+        "Dedicated residential concierge",
+        "Daily housekeeping",
+        "Turndown service",
+        "In-house grocery shopping",
+        "Meal preparation services",
+        "Laundry and dry cleaning",
+        "Personal assistant services",
+        "Flexible dining with private chef"
+      ],
+      "extended_stay_rates": {
+        "monthly": {
+          "min": 2000000,
+          "max": 3500000,
+          "savings": "30% vs daily"
+        },
+        "quarterly": {
+          "min": 5500000,
+          "max": 8500000,
+          "savings": "50% vs daily"
+        },
+        "annual": {
+          "min": 15000000,
+          "max": 20000000,
+          "savings": "60% vs daily"
+        }
+      },
+      "benefits": [
+        "Customizable meal plans",
+        "Integrated home office setup",
+        "Personal healthcare coordination",
+        "Family accommodation with school coordination"
+      ]
+    }
+  ],
+
+  "amenities": [
+    {
+      "id": "spa_wellness",
+      "name": "Spa & Wellness Center",
+      "category": "Relaxation",
+      "size_sqm": 5000,
+      "facilities": [
+        "12 treatment rooms with private changing",
+        "Couples spa suite",
+        "Hydrotherapy pools (mineral water)",
+        "Finnish sauna and steam room",
+        "Ice plunge pools",
+        "Relaxation lounge",
+        "Indoor and outdoor gardens",
+        "Meditation and yoga studio"
+      ],
+      "signature_treatments": [
+        {
+          "name": "Horizon Signature Massage (90 min)",
+          "price": 12000,
+          "description": "Swedish, deep tissue, and aromatherapy blend"
+        },
+        {
+          "name": "Facial Rejuvenation (60 min)",
+          "price": 10000,
+          "description": "Tailored to skin type with premium serums"
+        },
+        {
+          "name": "Full Body Ritual (120 min)",
+          "price": 18000,
+          "description": "Scrub, wrap, and massage"
+        },
+        {
+          "name": "Hot Stone Therapy (90 min)",
+          "price": 11000,
+          "description": "Deep relaxation and healing"
+        },
+        {
+          "name": "Couples Spa Package (120 min)",
+          "price": 22000,
+          "description": "Synchronized treatments for two"
+        }
+      ],
+      "programs": [
+        "Personalized wellness consultations (free)",
+        "Ayurvedic treatment plans (3-7 days)",
+        "Detox and rejuvenation programs",
+        "Anti-aging facial treatments",
+        "Post-operative recovery programs",
+        "Corporate wellness programs"
+      ],
+      "hours": "6 AM - 11 PM daily, 24-hour for suite guests"
+    },
+
+    {
+      "id": "fitness",
+      "name": "Fitness & Athletic Center",
+      "category": "Wellness",
+      "size_sqm": 3500,
+      "equipment": [
+        "35+ cardio machines (Peloton, Precor, Life Fitness)",
+        "Complete free weights (10-100 kg dumbbells)",
+        "Olympic weight lifting area",
+        "Functional training zone",
+        "TRX suspension systems",
+        "CrossFit equipment",
+        "Yoga and Pilates studio"
+      ],
+      "programs": [
+        {
+          "name": "Personal Training",
+          "price": 3000,
+          "unit": "per session (1-on-1)"
+        },
+        {
+          "name": "Group Classes",
+          "price": 0,
+          "unit": "complimentary for all guests"
+        },
+        {
+          "name": "Customized Fitness Plans",
+          "price": 15000,
+          "description": "4-week plan with assessment"
+        },
+        {
+          "name": "Nutritional Guidance",
+          "price": 8000,
+          "unit": "consultation with nutritionist"
+        }
+      ],
+      "class_schedule": [
+        "6 AM - 9 AM: Yoga and Pilates",
+        "9 AM - 12 PM: Strength training and boot camps",
+        "3 PM - 6 PM: Cardio, spin, dance fitness",
+        "6 PM - 8 PM: Evening yoga and flexibility"
+      ],
+      "special_features": [
+        "Premium sound system",
+        "Individual TV screens on cardio",
+        "Air quality monitoring",
+        "Cool towel service",
+        "Premium locker facilities",
+        "Complimentary fitness attire"
+      ]
+    },
+
+    {
+      "id": "pools",
+      "name": "Swimming Pools & Aquatic Center",
+      "category": "Recreation",
+      "pools": [
+        {
+          "name": "Olympic Pool",
+          "dimensions": "50m x 25m",
+          "lanes": 8,
+          "temperature": "28°C"
+        },
+        {
+          "name": "Leisure Pool",
+          "dimensions": "40m x 20m",
+          "temperature": "30°C",
+          "features": "Shallow areas for families"
+        },
+        {
+          "name": "Infinity Pool",
+          "location": "Rooftop",
+          "features": "City and garden views",
+          "temperature": "Year-round heated"
+        },
+        {
+          "name": "Aquatic Spa",
+          "features": "Hydrotherapy jets, massage pools"
+        },
+        {
+          "name": "Children's Pool",
+          "type": "Shallow with safety supervision"
+        }
+      ],
+      "programs": [
+        {
+          "name": "Private Swim Lessons",
+          "price": 2500,
+          "unit": "per session"
+        },
+        {
+          "name": "Adult Swim Classes",
+          "price": 5000,
+          "unit": "per month (unlimited)"
+        },
+        {
+          "name": "Children's Programs",
+          "price": 8000,
+          "unit": "per month (12 weeks)"
+        },
+        {
+          "name": "Competitive Training",
+          "price": 15000,
+          "unit": "per month"
+        },
+        {
+          "name": "Aqua Yoga",
+          "price": 1500,
+          "unit": "per class"
+        }
+      ],
+      "services": [
+        "Complimentary towel service",
+        "Private cabanas (₹5,000/day)",
+        "Poolside dining",
+        "Lifeguard coverage (6 AM - 10 PM)",
+        "Lockable safe boxes"
+      ]
+    }
+  ],
+
+  "dining": [
+    {
+      "id": "etoile",
+      "name": "Étoile",
+      "type": "Fine Dining",
+      "cuisine": "Contemporary French",
+      "chef": {
+        "name": "Chef Michel Beaumont",
+        "credentials": "2 Michelin stars",
+        "experience_years": 20,
+        "awards": "Chef of the Year 2023"
+      },
+      "seating": 80,
+      "price_range": {
+        "min": 5000,
+        "max": 8000,
+        "note": "Per person, excluding beverages"
+      },
+      "menus": [
+        {
+          "type": "À la carte",
+          "price": "Custom"
+        },
+        {
+          "type": "3-Course Tasting Menu",
+          "price": 7500
+        },
+        {
+          "type": "Chef's Selection",
+          "price": 9500
+        }
+      ],
+      "dress_code": "Smart formal (jacket recommended)",
+      "reservation": "Through concierge or direct",
+      "specialties": [
+        "Seasonal ingredients",
+        "Contemporary French techniques",
+        "Wine pairings available"
+      ]
+    },
+
+    {
+      "id": "lotus",
+      "name": "Lotus Kitchen",
+      "type": "Asian Cuisine",
+      "cuisine": "Contemporary Asian with Indian heritage",
+      "chef": {
+        "name": "Chef Rajesh Singh",
+        "specializations": ["Indian", "Asian fusion"]
+      },
+      "seating": 100,
+      "price_range": {
+        "min": 2500,
+        "max": 4500,
+        "note": "Per person"
+      },
+      "hours": "12 PM - 3 PM, 6 PM - 11 PM",
+      "specialties": [
+        "Tandoor dishes",
+        "Contemporary curries",
+        "Asian street food fusion"
+      ],
+      "menu_options": [
+        "À la carte",
+        "Tasting menus available"
+      ],
+      "features": "Open kitchen concept"
+    },
+
+    {
+      "id": "casual_dining",
+      "name": "Casual Dining Venues",
+      "venues": [
+        {
+          "name": "The Lobby Café",
+          "type": "All-day dining",
+          "items": "Pastries, light meals",
+          "price_range": "₹800-₹2,500"
+        },
+        {
+          "name": "Horizons Bar & Grill",
+          "type": "International casual",
+          "items": "Steaks, burgers",
+          "price_range": "₹2,000-₹4,000"
+        },
+        {
+          "name": "Poolside Restaurant",
+          "type": "Mediterranean",
+          "items": "Fresh seafood",
+          "price_range": "₹2,500-₹5,000"
+        },
+        {
+          "name": "Rooftop Lounge",
+          "type": "Cocktails & tapas",
+          "items": "Drinks, appetizers",
+          "price_range": "₹1,500-₹3,500"
+        }
+      ]
+    }
+  ],
+
+  "concierge_services": [
+    {
+      "category": "Travel & Transportation",
+      "services": [
+        "Private jet and helicopter arrangement",
+        "Luxury car rental and chauffeur",
+        "Airport transfers and VIP lounge",
+        "Travel insurance and documentation",
+        "Visa and passport assistance",
+        "Itinerary planning (domestic and international)",
+        "Train and cruise booking"
+      ],
+      "availability": "24/7",
+      "response_time": "15 minutes"
+    },
+
+    {
+      "category": "Dining & Reservations",
+      "services": [
+        "Michelin-starred restaurant reservations",
+        "Impossible-to-get dinner reservations",
+        "Wine pairing consultation",
+        "Chef private dining",
+        "Food tour coordination",
+        "Special dietary accommodations",
+        "Culinary events"
+      ],
+      "availability": "24/7",
+      "success_rate": "94%"
+    },
+
+    {
+      "category": "Entertainment & Events",
+      "services": [
+        "Theater and concert tickets",
+        "Sports event tickets (VIP access)",
+        "Private party and event planning",
+        "Celebrity and artist introductions",
+        "Exclusive club memberships",
+        "Art gallery and museum access",
+        "Festival coordination"
+      ],
+      "availability": "24/7",
+      "feature": "Priority access worldwide"
+    },
+
+    {
+      "category": "Shopping & Fashion",
+      "services": [
+        "Personal shopping services",
+        "Luxury boutique exclusive access",
+        "Designer wardrobe consultation",
+        "Tailoring and custom fitting",
+        "Jewelry and luxury goods sourcing",
+        "Auction house bidding",
+        "Art and collectibles acquisition"
+      ],
+      "availability": "24/7",
+      "feature": "Exclusive partnerships"
+    },
+
+    {
+      "category": "Health & Wellness",
+      "services": [
+        "Medical consultation arrangement",
+        "Prescription delivery and pharmacy",
+        "Specialist referrals",
+        "Wellness program coordination",
+        "Fitness trainer and nutrition",
+        "Mental health services",
+        "Emergency medical evacuation"
+      ],
+      "availability": "24/7",
+      "feature": "Medical team on call"
+    },
+
+    {
+      "category": "Family & Personal Services",
+      "services": [
+        "Childcare and nanny arrangements",
+        "Tuition and school enrollment",
+        "Pet care and arrangement",
+        "Home and property management",
+        "Legal and financial referral",
+        "Wedding and event planning",
+        "Relationship milestone celebrations"
+      ],
+      "availability": "24/7",
+      "feature": "Trusted service partners"
+    },
+
+    {
+      "category": "Business & Administrative",
+      "services": [
+        "Meeting room and event coordination",
+        "Secretarial and administrative support",
+        "Document translation (multiple languages)",
+        "Visa and work permit assistance",
+        "Corporate and business setup",
+        "IT and tech support",
+        "Accounting and bookkeeping referrals"
+      ],
+      "availability": "24/7",
+      "feature": "Multilingual support"
+    },
+
+    {
+      "category": "Local Knowledge & Experiences",
+      "services": [
+        "Hidden gem restaurant recommendations",
+        "Local attraction and site tours",
+        "Cultural event and festival access",
+        "Adventure and outdoor activity",
+        "Photography and guided tours",
+        "Luxury shopping district tours",
+        "Authentic local experiences"
+      ],
+      "availability": "24/7",
+      "feature": "Local experts with 15+ years"
+    }
+  ],
+
+  "team": [
+    {
+      "id": "gm",
+      "name": "Jonathan Ashford",
+      "title": "General Manager",
+      "credentials": "MBA Hospitality",
+      "experience_years": 25,
+      "specialization": "Luxury hotel management",
+      "background": "Previously managed 5-star properties across Europe and Asia",
+      "responsibilities": [
+        "Overall hotel operations",
+        "Guest experience excellence",
+        "Service standards"
+      ]
+    },
+
+    {
+      "id": "cd",
+      "name": "Margot Leclerc",
+      "title": "Director of Concierge",
+      "credentials": "Les Clefs d'Or",
+      "experience_years": 20,
+      "languages": 8,
+      "specialization": "Luxury concierge services",
+      "feature": "Global network connections",
+      "responsibilities": [
+        "Concierge team leadership",
+        "Guest satisfaction",
+        "VIP service"
+      ]
+    },
+
+    {
+      "id": "chef",
+      "name": "Michel Beaumont",
+      "title": "Executive Chef",
+      "credentials": "2 Michelin Stars",
+      "experience_years": 30,
+      "specialization": "French cuisine",
+      "awards": "Chef of the Year 2023",
+      "style": "Contemporary French with innovative menus"
+    },
+
+    {
+      "id": "fd",
+      "name": "Raj Patel",
+      "title": "Director of Rooms",
+      "credentials": "Certified Hospitality Administrator",
+      "experience_years": 18,
+      "specialization": "Room operations and housekeeping",
+      "responsibilities": [
+        "Room operations",
+        "Housekeeping management",
+        "Guest accommodations"
+      ]
+    }
+  ],
+
+  "facilities": [
+    {
+      "name": "Grand Ballroom",
+      "type": "Event Space",
+      "size_sqm": 3000,
+      "capacity": 2000,
+      "style": "Theater"
+    },
+
+    {
+      "name": "Conference Center",
+      "type": "Meeting Spaces",
+      "rooms": 8,
+      "capacity_range": "50-500"
+    },
+
+    {
+      "name": "Executive Boardrooms",
+      "type": "Business Facilities",
+      "count": 4,
+      "features": "Video conferencing, premium setup"
+    },
+
+    {
+      "name": "Total Event Space",
+      "size_sqm": 8000,
+      "description": "Multiple layouts and configurations"
+    }
+  ],
+
+  "business_services": [
+    {
+      "service": "Meeting room rental",
+      "pricing": "₹50,000 - ₹200,000/day"
+    },
+
+    {
+      "service": "AV technical support",
+      "pricing": "₹10,000/event"
+    },
+
+    {
+      "service": "Full event coordination",
+      "pricing": "15% of total event budget"
+    },
+
+    {
+      "service": "Catering",
+      "pricing": "₹500-₹2,000 per person"
+    }
+  ],
+
+  "special_offers": [
+    {
+      "type": "Early Booking",
+      "discount": "15% off"
+    },
+
+    {
+      "type": "3+ Night Stay",
+      "discount": "8% off"
+    },
+
+    {
+      "type": "7+ Night Stay",
+      "discount": "15% off"
+    },
+
+    {
+      "type": "Monthly Residential Stay",
+      "savings": "30% vs daily rates"
+    },
+
+    {
+      "type": "Quarterly Stay",
+      "savings": "50% vs daily rates"
+    }
+  ],
+
+  "faq": [
+    {
+      "question": "What is the check-in and check-out time?",
+      "answer": "Standard check-in is 3 PM and check-out is 12 PM. Early check-in and late checkout available subject to room availability. Concierge can arrange with 24-hour notice."
+    },
+
+    {
+      "question": "Do you offer room upgrades?",
+      "answer": "Yes! Room upgrades are available based on occupancy. Executive Suite and Penthouse guests receive complimentary upgrades if available. Concierge can facilitate upgrades for all guests."
+    },
+
+    {
+      "question": "What is the parking situation?",
+      "answer": "Complimentary valet parking for all hotel guests. Self-parking also available. Underground parking facility with EV charging stations."
+    },
+
+    {
+      "question": "Is WiFi included?",
+      "answer": "Yes, complimentary high-speed WiFi (WiFi 6) is included for all guests. Presidential and Penthouse suites include dedicated fiber optic connections."
+    },
+
+    {
+      "question": "How do I reach the concierge?",
+      "answer": "24/7 availability via phone (+91-40-XXXX-XXXX), WhatsApp (+91-XXXXX-XXXXX), email (concierge@horizonhotel.com), or in-person at the concierge desk."
+    },
+
+    {
+      "question": "What dining options are available?",
+      "answer": "We offer Michelin-standard fine dining at Étoile, contemporary Asian cuisine at Lotus Kitchen, plus casual dining venues. Room service available 24/7."
+    },
+
+    {
+      "question": "Can the concierge arrange dinner reservations?",
+      "answer": "Yes! Our concierge has 94% success rate in securing impossible-to-get reservations, including Michelin-starred restaurants worldwide. Request 24 hours in advance when possible."
+    },
+
+    {
+      "question": "Are pets allowed?",
+      "answer": "Yes, pets are welcome with special arrangements. Contact concierge for pet-friendly amenities, room setup, and services. Additional pet fee applies."
+    }
+  ]
+}
